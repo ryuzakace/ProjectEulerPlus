@@ -3,6 +3,11 @@ How do you get 100 babies into a bucket?
 With a blender.
 */
 
+/*
+If we list all the natural numbers below  that are multiples of  or , we get  and . The sum of these multiples is .
+
+Find the sum of all the multiples of  or  below .
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
