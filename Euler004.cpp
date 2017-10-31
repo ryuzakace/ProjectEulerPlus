@@ -3,6 +3,9 @@ What's the worst thing about breaking up with a Japanese girl?
 You have to drop the bomb twice before she gets the message.
 
 */
+/*
+https://www.hackerrank.com/contests/projecteuler/challenges/euler003
+*/
 
 #include <bits/stdc++.h>
 
