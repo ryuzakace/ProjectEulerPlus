@@ -2,7 +2,9 @@
 What did the buffalo say to his son when he left for college?
 Bison.
 */
-
+/*
+https://www.hackerrank.com/contests/projecteuler/challenges/euler006
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
